@@ -1,0 +1,10 @@
+a) Xây dựng lớp các nhân viên gồm các thuộc tính dữ liệu họ tên, hệ số lương, phụ cấp với các phương thức nhập,
+xuất và tính lương (lương = hệ số lương * 1310 + phụ cấp). Kế thừa lớp nhân viên xây dựng lớp cán bộ có thêm 1
+thuộc tính hệ số chức vụ với các phương thức như lớp nhân viên biết lương cán bộ = (hệ số lương + hệ số chức vụ)
+* 1310 + phụ cấp.
+
+b) Viết hàm main nhập vào một mảng n Nhân viên và cán bộ sau đó:
+
+In ra danh sách vừa nhập.
+In ra danh sách tối đa 10% nhân viên hoặc có thu nhập thấp nhất và có hệ số lương nhỏ hơn 3.0 để nhận trợ cấp khó khăn
+cuối năm.
